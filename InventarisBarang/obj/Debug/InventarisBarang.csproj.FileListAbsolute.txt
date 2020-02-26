@@ -1,0 +1,15 @@
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\bin\Debug\InventarisBarang.exe.config
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\bin\Debug\InventarisBarang.exe
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\bin\Debug\InventarisBarang.pdb
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\obj\Debug\InventarisBarang.csprojResolveAssemblyReference.cache
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\obj\Debug\InventarisBarang.Form1.resources
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\obj\Debug\InventarisBarang.Properties.Resources.resources
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\obj\Debug\InventarisBarang.csproj.GenerateResource.Cache
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\obj\Debug\InventarisBarang.exe
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\obj\Debug\InventarisBarang.pdb
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+c:\users\kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kafkakhalis\documents\visual studio 2017\Projects\InventarisBarang\InventarisBarang\obj\Debug\InventarisBarang.HelpPage.resources
